@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Design pattern "Facade" (Structural) or "Delegation" (Fundamental)
+ * Design pattern "Facade" (Structural)
  * This is demo code
  * See for details: http://maxsite.org/page/php-patterns
  */

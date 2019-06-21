@@ -2,7 +2,7 @@
 
 See details on http://maxsite.org/page/php-patterns
 
-* "Facade" (Structural) / "Delegation" (Fundamental)
+* "Facade" (Structural)
 
 
 (c) MaxSite.org, 2019, http://maxsite.org/
