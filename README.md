@@ -7,6 +7,7 @@ See details on http://maxsite.org/page/php-patterns
 * "Factory method" / "Virtual Constructor" (Creational)
 * "Abstract factory" (Creational)
 * "Singleton" (Creational)
+* "Multiton" (Creational)
 
 
 (c) MaxSite.org, 2019, http://maxsite.org/
