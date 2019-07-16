@@ -8,6 +8,7 @@ See details on http://maxsite.org/page/php-patterns
 * "Abstract factory" (Creational)
 * "Singleton" (Creational)
 * "Multiton" (Creational)
+* "Registry" (Structural)
 
 
 (c) MaxSite.org, 2019, http://maxsite.org/
