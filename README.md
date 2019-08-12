@@ -10,6 +10,7 @@ See details on http://maxsite.org/page/php-patterns
 * "Multiton" (Creational)
 * "Registry" (Structural)
 * "Composite" (Structural)
+* "Builder" (Creational)
 
 
 (c) MaxSite.org, 2019, http://maxsite.org/
