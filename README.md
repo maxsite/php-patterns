@@ -11,6 +11,7 @@ See details on http://maxsite.org/page/php-patterns
 * "Registry" (Structural)
 * "Composite" (Structural)
 * "Builder" (Creational)
+* "Strategy" (Behavioral)
 
 
 (c) MaxSite.org, 2019, http://maxsite.org/
