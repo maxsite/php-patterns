@@ -12,6 +12,7 @@ See details on http://maxsite.org/page/php-patterns
 * "Composite" (Structural)
 * "Builder" (Creational)
 * "Strategy" (Behavioral)
+* "Adapter" (Structural)
 
 
 (c) MaxSite.org, 2019, http://maxsite.org/
