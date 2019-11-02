@@ -13,6 +13,7 @@ See details on http://maxsite.org/page/php-patterns
 * "Builder" (Creational)
 * "Strategy" (Behavioral)
 * "Adapter" (Structural)
+* "Observer" (Behavioral)
 
 
 (c) MaxSite.org, 2019, http://maxsite.org/
