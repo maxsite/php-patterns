@@ -28,7 +28,7 @@ class Component extends ComponentAbstract
 /**
  * Base for Decorator
  */
-abstract class DecoratorAbstract extends ComponentAbstract
+abstract class DecoratorAbstract
 {
     protected $component;
 
