@@ -15,6 +15,7 @@ See details on http://maxsite.org/page/php-patterns
 * "Adapter" (Structural)
 * "Observer" (Behavioral)
 * "Prototype" (Creational)
+* "Bridge" (Structural)
 
 
 (c) MaxSite.org, 2019, http://maxsite.org/
