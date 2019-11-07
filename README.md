@@ -17,6 +17,7 @@ See details on http://maxsite.org/page/php-patterns
 * "Prototype" (Creational)
 * "Bridge" (Structural)
 * "Decorator" (Structural)
+* "Flyweight" (Structural)
 
 
 (c) MaxSite.org, 2019, http://maxsite.org/
