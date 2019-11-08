@@ -19,6 +19,7 @@ See details on http://maxsite.org/page/php-patterns
 * "Decorator" (Structural)
 * "Flyweight" (Structural)
 * "Proxy" (Structural)
+* "Template method" (Behavioral)
 
 
 (c) MaxSite.org, 2019, http://maxsite.org/
