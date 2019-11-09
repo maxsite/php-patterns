@@ -20,6 +20,7 @@ See details on http://maxsite.org/page/php-patterns
 * "Flyweight" (Structural)
 * "Proxy" (Structural)
 * "Template method" (Behavioral)
+* "Dependency injection" (Creational)
 
 
 (c) MaxSite.org, 2019, http://maxsite.org/
